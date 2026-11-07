@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1449058168.svg)](https://doi.org/10.5281/zenodo.24029043)
 
-Analysis code for the article *"Calibrated machine learning with decision-anchored clinician referral for in-hospital mortality prediction in intensive care: a multicentre external validation against APACHE IV"* (submitted to the International Journal of Medical Informatics).
+Analysis code for the article *"Calibrated machine learning and decision-anchored clinician referral for ICU mortality prediction: hospital-held-out validation against APACHE IV"* (submitted to the International Journal of Medical Informatics).
 
 ## Contents
 
