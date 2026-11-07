@@ -1,0 +1,7 @@
+metric,estimate,patient_lo,patient_hi,cluster_lo,cluster_hi,width_ratio,cluster_valid_resamples,cluster_invalid_resamples,source
+auroc,0.897,0.8899,0.9041,0.8869,0.9088,1.55,1000,0,cluster_addon notebook printed output (4 d.p.)
+brier,0.0555,0.0538,0.0571,0.0476,0.0626,4.56,1000,0,cluster_addon notebook printed output (4 d.p.)
+ece_10,0.0056,0.004,0.0091,0.0041,0.0156,2.25,1000,0,cluster_addon notebook printed output (4 d.p.)
+cal_intercept,-0.0079,-0.0433,0.027,-0.2849,0.2015,6.92,1000,0,cluster_addon notebook printed output (4 d.p.)
+cal_slope,0.9523,0.9151,0.9898,0.8958,1.0217,1.69,1000,0,cluster_addon notebook printed output (4 d.p.)
+net_benefit_0.20,0.0396,0.0372,0.0417,0.03,0.0491,4.21,1000,0,cluster_addon notebook printed output (4 d.p.)

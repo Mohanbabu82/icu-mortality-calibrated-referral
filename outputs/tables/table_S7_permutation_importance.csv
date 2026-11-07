@@ -1,0 +1,179 @@
+feature,group,importance_mean,importance_sd
+apache_3j_diagnosis,APACHE physiology & diagnosis,0.011793147816985794,0.0010250382421656053
+age,Demographics & admission,0.010123707393062004,0.0008873181145946256
+ventilated_apache,APACHE physiology & diagnosis,0.006931191725838981,0.0013431202406335334
+apache_2_diagnosis,APACHE physiology & diagnosis,0.006807360528548706,0.0008119958559088602
+gcs_motor_apache,APACHE physiology & diagnosis,0.003764191341001799,0.0005027947173135037
+d1_heartrate_min,First-day vitals (d1),0.0030189626919273904,0.00029608540202324555
+d1_spo2_min,First-day vitals (d1),0.002498228241564793,0.00019892903971090934
+d1_bun_max,First-day labs (d1),0.002125486859456649,0.0005059773261439388
+d1_lactate_min,First-day labs (d1),0.002060972352242757,0.00041077372814090707
+urineoutput_apache,APACHE physiology & diagnosis,0.001758054433100048,0.00017541422854573953
+d1_sysbp_min,First-day vitals (d1),0.0015455441620958466,0.0002882685490912162
+d1_heartrate_max,First-day vitals (d1),0.0014975407930762242,9.997770799865598e-05
+d1_pao2fio2ratio_max,First-day labs (d1),0.0014910371606435657,0.00017024866057007996
+d1_bun_min,First-day labs (d1),0.0014852140489940492,0.0005105534411784042
+d1_sodium_max,First-day labs (d1),0.0014659143369776916,0.00010172707620191522
+d1_platelets_min,First-day labs (d1),0.0014351294047456498,0.00017192131005565084
+hospital_admit_source,Demographics & admission,0.0011418259001682086,0.00041407444624688483
+d1_resprate_min,First-day vitals (d1),0.0010106487575624822,0.0002840223447543612
+gcs_eyes_apache,APACHE physiology & diagnosis,0.0009851922481869224,0.00016852167570366772
+d1_sysbp_noninvasive_max,First-day vitals (d1),0.0008989567638310436,0.0001026727042077308
+gcs_verbal_apache,APACHE physiology & diagnosis,0.0008861215864399752,0.000293973116888157
+d1_temp_min,First-day vitals (d1),0.0008686460876213053,0.0005438889486519465
+heart_rate_apache,APACHE physiology & diagnosis,0.0008528766679792632,0.00022419245903511863
+d1_pao2fio2ratio_min,First-day labs (d1),0.0007786433907442547,0.0001754001407287634
+icu_admit_source,Demographics & admission,0.0007705592151680152,0.0002233180469663664
+d1_potassium_min,First-day labs (d1),0.000764609079601869,0.00018453102514551855
+solid_tumor_with_metastasis,Comorbidities,0.0006985004540530304,0.0001874104734570113
+d1_lactate_max,First-day labs (d1),0.0006928799977474976,0.00018903163614968535
+d1_temp_max,First-day vitals (d1),0.0006519950029050703,0.00023385950405782984
+weight,Demographics & admission,0.0006422859940021064,0.00015041788148744702
+d1_inr_min,First-day labs (d1),0.0006352205766837427,0.00015759056220956302
+pre_icu_los_days,Demographics & admission,0.0006085945729973341,0.00021645506400705787
+icu_type,Demographics & admission,0.0005661992202968813,0.0002215837397255947
+d1_albumin_min,First-day labs (d1),0.000545119192867427,0.0001082899529840433
+d1_arterial_ph_max,First-day labs (d1),0.0005356386908339561,0.000215073108624517
+d1_mbp_min,First-day vitals (d1),0.0004872498508187828,0.0001808612315401913
+d1_sysbp_max,First-day vitals (d1),0.000448436945143732,0.00011386713513244543
+d1_inr_max,First-day labs (d1),0.0004157099980258205,8.730145691547115e-05
+map_apache,APACHE physiology & diagnosis,0.0004128458948415792,0.00012886901339274385
+d1_hemaglobin_max,First-day labs (d1),0.00038293054219161736,0.00020166783891093523
+d1_bilirubin_min,First-day labs (d1),0.00037486739869969644,0.00011254754408477972
+d1_glucose_min,First-day labs (d1),0.00033999337648209503,0.0002370827989121213
+h1_resprate_min,First-hour vitals/labs (h1),0.00026415077750062134,0.00016566119309477864
+d1_mbp_noninvasive_max,First-day vitals (d1),0.0002439827537549344,7.876323681393353e-05
+d1_sysbp_noninvasive_min,First-day vitals (d1),0.00024310415432378661,8.069311819780007e-05
+d1_arterial_po2_min,First-day labs (d1),0.0002361980870683289,9.144733148663558e-05
+d1_glucose_max,First-day labs (d1),0.0002235037280388874,0.00011124064366333609
+d1_mbp_noninvasive_min,First-day vitals (d1),0.00022094982986238244,3.9557380378706534e-05
+bilirubin_apache,APACHE physiology & diagnosis,0.00021797129675417138,7.834725051644587e-05
+d1_platelets_max,First-day labs (d1),0.00019489772730255095,8.02772263736865e-05
+h1_mbp_noninvasive_min,First-hour vitals/labs (h1),0.0001897167961235402,0.00033211536597391633
+h1_resprate_max,First-hour vitals/labs (h1),0.0001887396016018006,0.00012322794209320838
+d1_hematocrit_min,First-day labs (d1),0.0001782888337306332,0.0001848554212199757
+d1_sysbp_invasive_min,First-day vitals (d1),0.00017590498429306267,0.00011767174990010004
+h1_diasbp_noninvasive_min,First-hour vitals/labs (h1),0.00016885166137834418,4.160196867552146e-05
+h1_heartrate_max,First-hour vitals/labs (h1),0.00016253205969432583,0.0001506743978646807
+bmi,Demographics & admission,0.00015603852870714198,0.00022473870075482885
+d1_creatinine_min,First-day labs (d1),0.0001520647893336169,0.0001204161880641004
+h1_sysbp_noninvasive_max,First-hour vitals/labs (h1),0.00014980763001906094,7.799388695275024e-05
+h1_sysbp_max,First-hour vitals/labs (h1),0.00014249094031751897,8.044430699548276e-05
+bun_apache,APACHE physiology & diagnosis,0.00013747058010011304,0.0001644441081970474
+d1_arterial_ph_min,First-day labs (d1),0.0001369101495171887,0.00013390314305372592
+wbc_apache,APACHE physiology & diagnosis,0.00011953444144406911,0.00022994640846123423
+d1_wbc_min,First-day labs (d1),0.00011913459866226272,0.00011854874459142861
+d1_creatinine_max,First-day labs (d1),0.00011831440570047036,7.850810899577069e-05
+fio2_apache,APACHE physiology & diagnosis,0.00011356063826900575,7.558150260036322e-05
+h1_hco3_max,First-hour vitals/labs (h1),0.00011023961866005183,5.049685759462728e-05
+h1_glucose_max,First-hour vitals/labs (h1),0.00010433408216663498,9.539997558441383e-05
+d1_bilirubin_max,First-day labs (d1),0.00010096913303360711,0.00022283478910284555
+d1_calcium_max,First-day labs (d1),9.648778427576166e-05,0.00017017829256477812
+d1_sysbp_invasive_max,First-day vitals (d1),9.461656069701951e-05,0.00010043694522891354
+h1_platelets_max,First-hour vitals/labs (h1),8.921829901398782e-05,3.982594528241945e-05
+albumin_apache,APACHE physiology & diagnosis,8.349498975529501e-05,6.388869926858854e-05
+d1_hco3_max,First-day labs (d1),8.012090990024423e-05,0.00012913163557697107
+d1_hemaglobin_min,First-day labs (d1),7.929902342607154e-05,3.5661268118030134e-05
+h1_heartrate_min,First-hour vitals/labs (h1),7.877461153495968e-05,4.951400390291582e-05
+h1_mbp_min,First-hour vitals/labs (h1),6.364871796065707e-05,5.524307090189871e-05
+d1_hematocrit_max,First-day labs (d1),6.323209065999812e-05,6.314956282356965e-05
+h1_spo2_max,First-hour vitals/labs (h1),6.175813953874232e-05,2.6971075673282463e-05
+glucose_apache,APACHE physiology & diagnosis,6.085282924602198e-05,0.00012422469349178319
+d1_arterial_pco2_max,First-day labs (d1),5.931276364560811e-05,2.356084817264063e-05
+d1_sodium_min,First-day labs (d1),5.2691685436151435e-05,7.154392319150808e-05
+d1_wbc_max,First-day labs (d1),5.1891617241045515e-05,3.723398921652511e-05
+d1_mbp_max,First-day vitals (d1),5.01028478946397e-05,3.65185751282982e-05
+d1_calcium_min,First-day labs (d1),4.810393434697691e-05,0.00010278056219633909
+d1_diasbp_max,First-day vitals (d1),4.659434609624591e-05,5.618667235190212e-05
+h1_sysbp_noninvasive_min,First-hour vitals/labs (h1),4.392704698462091e-05,6.752763184685125e-05
+h1_hemaglobin_max,First-hour vitals/labs (h1),4.042364436753765e-05,3.683939207033308e-05
+h1_bun_max,First-hour vitals/labs (h1),3.605446228859277e-05,2.881451656770934e-05
+h1_glucose_min,First-hour vitals/labs (h1),3.591733355784998e-05,7.821460365989415e-05
+temp_apache,APACHE physiology & diagnosis,3.438959657692808e-05,0.00012992013495748763
+h1_arterial_ph_min,First-hour vitals/labs (h1),3.322214682351388e-05,2.8060568871463027e-05
+apache_2_bodysystem,APACHE physiology & diagnosis,3.293347341429831e-05,3.2989129615597564e-05
+h1_diasbp_invasive_min,First-hour vitals/labs (h1),3.1664238747136644e-05,7.028350180176831e-06
+h1_wbc_min,First-hour vitals/labs (h1),2.8455510569785904e-05,2.0679193525779125e-05
+h1_temp_min,First-hour vitals/labs (h1),2.6815077506875395e-05,0.0001461697518056739
+h1_mbp_invasive_min,First-hour vitals/labs (h1),2.24799333133463e-05,1.6604740738111313e-05
+h1_bilirubin_max,First-hour vitals/labs (h1),2.1444512263885106e-05,1.8188649004535514e-05
+h1_diasbp_invasive_max,First-hour vitals/labs (h1),2.0300964779723653e-05,1.8241876292219374e-05
+apache_post_operative,APACHE physiology & diagnosis,2.0251551661815136e-05,1.1867715966263977e-05
+gender,Demographics & admission,1.863001490949867e-05,1.2092020569065711e-05
+h1_arterial_po2_min,First-hour vitals/labs (h1),1.393737340587009e-05,5.634444535892961e-05
+d1_diasbp_invasive_min,First-day vitals (d1),1.3935994339331348e-05,6.520198646656405e-05
+h1_diasbp_noninvasive_max,First-hour vitals/labs (h1),8.429002240151195e-06,4.198619820648301e-05
+h1_sodium_max,First-hour vitals/labs (h1),7.283285294884534e-06,7.126181816704256e-06
+d1_diasbp_noninvasive_min,First-day vitals (d1),7.171355202534313e-06,8.60436317663031e-05
+h1_sodium_min,First-hour vitals/labs (h1),6.763794186115391e-06,3.212864396516184e-05
+intubated_apache,APACHE physiology & diagnosis,6.618431304833416e-06,5.153947691540467e-06
+h1_hematocrit_max,First-hour vitals/labs (h1),6.450425013126981e-06,1.0355485992061105e-05
+d1_diasbp_invasive_max,First-day vitals (d1),3.07006220210404e-06,2.4482976526881294e-05
+paco2_for_ph_apache,APACHE physiology & diagnosis,0.0,0.0
+gcs_unable_apache,APACHE physiology & diagnosis,0.0,0.0
+h1_inr_max,First-hour vitals/labs (h1),0.0,0.0
+aids,Comorbidities,0.0,0.0
+cirrhosis,Comorbidities,0.0,0.0
+hepatic_failure,Comorbidities,0.0,0.0
+icu_stay_type,Demographics & admission,0.0,0.0
+lymphoma,Comorbidities,0.0,0.0
+h1_bun_min,First-hour vitals/labs (h1),0.0,0.0
+h1_inr_min,First-hour vitals/labs (h1),0.0,0.0
+leukemia,Comorbidities,0.0,0.0
+h1_sysbp_invasive_min,First-hour vitals/labs (h1),-7.280677453591621e-07,2.2704620488233353e-05
+h1_calcium_min,First-hour vitals/labs (h1),-2.2317949214034626e-06,5.24006105653514e-06
+h1_albumin_min,First-hour vitals/labs (h1),-2.550945844098651e-06,1.0958944727890973e-05
+h1_pao2fio2ratio_max,First-hour vitals/labs (h1),-2.702841095986175e-06,1.6731352348284612e-05
+h1_lactate_min,First-hour vitals/labs (h1),-3.732887280050168e-06,2.0597450289489682e-05
+elective_surgery,Demographics & admission,-6.787705398625388e-06,1.916368094798377e-05
+ethnicity,Demographics & admission,-7.010120071365699e-06,5.367603305786203e-05
+h1_potassium_max,First-hour vitals/labs (h1),-7.772456366034185e-06,2.212117270849543e-05
+h1_arterial_po2_max,First-hour vitals/labs (h1),-7.9827871741045e-06,1.309496640865581e-05
+h1_sysbp_min,First-hour vitals/labs (h1),-8.350598852280288e-06,8.014347639557672e-05
+h1_creatinine_min,First-hour vitals/labs (h1),-8.753323425109149e-06,1.2433291775269126e-05
+arf_apache,APACHE physiology & diagnosis,-1.4720289943542797e-05,2.8750057267996386e-05
+h1_arterial_pco2_max,First-hour vitals/labs (h1),-1.4963959263658567e-05,1.398984317505568e-05
+h1_calcium_max,First-hour vitals/labs (h1),-1.4994598875656128e-05,4.293263065174494e-06
+h1_mbp_noninvasive_max,First-hour vitals/labs (h1),-1.6107905881013184e-05,3.7519293519401355e-05
+h1_mbp_max,First-hour vitals/labs (h1),-1.631016735585966e-05,8.945659905218465e-05
+h1_bilirubin_min,First-hour vitals/labs (h1),-1.652367264072252e-05,7.80263386254596e-06
+pao2_apache,APACHE physiology & diagnosis,-1.688291223207461e-05,1.6572053672019665e-05
+h1_hemaglobin_min,First-hour vitals/labs (h1),-1.797236662448021e-05,1.6961937373469626e-05
+h1_pao2fio2ratio_min,First-hour vitals/labs (h1),-1.9038988792774435e-05,8.566669555963238e-05
+d1_resprate_max,First-day vitals (d1),-1.979081063391286e-05,0.00024708509382066366
+ph_apache,APACHE physiology & diagnosis,-2.074791679299581e-05,5.595098665969407e-05
+immunosuppression,Comorbidities,-2.1221691405698406e-05,1.0741452991021515e-05
+h1_hematocrit_min,First-hour vitals/labs (h1),-2.1429348821971895e-05,5.554049025940286e-06
+h1_arterial_ph_max,First-hour vitals/labs (h1),-2.213130661984364e-05,7.152739799674411e-06
+apache_3j_bodysystem,APACHE physiology & diagnosis,-2.2428568160665074e-05,4.989482054405675e-05
+creatinine_apache,APACHE physiology & diagnosis,-2.9245825303592098e-05,5.117052598193425e-05
+h1_albumin_max,First-hour vitals/labs (h1),-3.4522507216883104e-05,1.202761819720263e-05
+d1_hco3_min,First-day labs (d1),-4.320081996142533e-05,4.735432157343401e-05
+d1_diasbp_min,First-day vitals (d1),-4.525774836593999e-05,0.00012584972454553252
+h1_potassium_min,First-hour vitals/labs (h1),-4.5576148051573726e-05,2.3865941616481597e-05
+h1_platelets_min,First-hour vitals/labs (h1),-4.9105680188293864e-05,8.048280809351647e-06
+hematocrit_apache,APACHE physiology & diagnosis,-5.216797704500342e-05,7.5973558756735e-05
+sodium_apache,APACHE physiology & diagnosis,-5.3175594379445414e-05,5.242047627989533e-05
+h1_sysbp_invasive_max,First-hour vitals/labs (h1),-5.3604938242074464e-05,1.3187889212849721e-05
+h1_arterial_pco2_min,First-hour vitals/labs (h1),-5.566487350052718e-05,1.8336460356546034e-05
+h1_hco3_min,First-hour vitals/labs (h1),-5.94287793253101e-05,9.45721900227724e-06
+h1_mbp_invasive_max,First-hour vitals/labs (h1),-6.780497365315164e-05,8.218332230050511e-05
+h1_diasbp_max,First-hour vitals/labs (h1),-6.929185914967828e-05,5.832871192061118e-05
+d1_mbp_invasive_max,First-day vitals (d1),-6.988573752656491e-05,3.478840809546322e-05
+d1_arterial_pco2_min,First-day labs (d1),-7.96891506398778e-05,0.00013903489483795423
+h1_creatinine_max,First-hour vitals/labs (h1),-8.979249017064261e-05,3.578006441310324e-05
+d1_diasbp_noninvasive_max,First-day vitals (d1),-9.415132337183829e-05,4.2591313552187035e-05
+h1_lactate_max,First-hour vitals/labs (h1),-9.913648069896363e-05,6.9693113421892e-05
+d1_albumin_max,First-day labs (d1),-9.928443032839463e-05,4.329180711762344e-05
+h1_spo2_min,First-hour vitals/labs (h1),-0.00010003649269153536,7.643897235627818e-05
+diabetes_mellitus,Comorbidities,-0.00010446096846284392,7.71510852316958e-05
+d1_spo2_max,First-day vitals (d1),-0.000105706195814248,0.00021956690352755527
+d1_arterial_po2_max,First-day labs (d1),-0.00010833446965424764,2.870476709596735e-05
+h1_diasbp_min,First-hour vitals/labs (h1),-0.00012635949053561025,2.824410991706586e-05
+h1_temp_max,First-hour vitals/labs (h1),-0.00012865838909631444,0.00015459712586832528
+height,Demographics & admission,-0.0001308693298175567,5.8548647284992894e-05
+d1_potassium_max,First-day labs (d1),-0.00014976450401103515,9.460212247249027e-05
+h1_wbc_max,First-hour vitals/labs (h1),-0.0001540279673433287,6.1006374469135406e-05
+d1_mbp_invasive_min,First-day vitals (d1),-0.00017436666977879156,6.788282699035514e-05
+paco2_apache,APACHE physiology & diagnosis,-0.00020907162476858644,3.273464453066914e-05
+resprate_apache,APACHE physiology & diagnosis,-0.00022024100472761154,0.0001864268938798879

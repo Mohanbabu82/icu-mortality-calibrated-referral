@@ -1,0 +1,7 @@
+feature_group,n_features,examples
+Demographics & admission,12,"age, bmi, elective_surgery, height, pre_icu_los_days, weight, ethnicity, gender, hospital_admit_source, icu_admit_source, icu_stay_type, icu_type"
+APACHE physiology & diagnosis,30,"albumin_apache, apache_post_operative, arf_apache, bilirubin_apache, bun_apache, creatinine_apache, fio2_apache, gcs_eyes_apache, gcs_motor_apache, gcs_unable_apache, gcs_verbal_apache, glucose_apache …"
+First-day vitals (d1),26,"d1_diasbp_invasive_max, d1_diasbp_invasive_min, d1_diasbp_max, d1_diasbp_min, d1_diasbp_noninvasive_max, d1_diasbp_noninvasive_min, d1_heartrate_max, d1_heartrate_min, d1_mbp_invasive_max, d1_mbp_invasive_min, d1_mbp_max, d1_mbp_min …"
+First-hour vitals/labs (h1),64,"h1_diasbp_invasive_max, h1_diasbp_invasive_min, h1_diasbp_max, h1_diasbp_min, h1_diasbp_noninvasive_max, h1_diasbp_noninvasive_min, h1_heartrate_max, h1_heartrate_min, h1_mbp_invasive_max, h1_mbp_invasive_min, h1_mbp_max, h1_mbp_min …"
+First-day labs (d1),38,"d1_albumin_max, d1_albumin_min, d1_bilirubin_max, d1_bilirubin_min, d1_bun_max, d1_bun_min, d1_calcium_max, d1_calcium_min, d1_creatinine_max, d1_creatinine_min, d1_glucose_max, d1_glucose_min …"
+Comorbidities,8,"aids, cirrhosis, diabetes_mellitus, hepatic_failure, immunosuppression, leukemia, lymphoma, solid_tumor_with_metastasis"

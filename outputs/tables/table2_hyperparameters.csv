@@ -1,0 +1,4 @@
+model,selected,search_grid,selection,fit_seconds,notes
+logistic_regression,"{""C"": 0.1}","[0.001, 0.01, 0.1, 1.0, 10.0]",3-fold CV log loss on training set,3.7,"L2, lbfgs, unweighted; standardized numerics + missingness indicators + one-hot categoricals"
+gradient_boosting,"{""learning_rate"": 0.05, ""max_leaf_nodes"": 15.0, ""min_samples_leaf"": 100.0, ""l2_regularization"": 0.0}",12 configurations,3-fold CV log loss on training set,11.0,"sklearn HistGradientBoosting, native categoricals, early stopping on 10% inner split, iterations used = 450"
+lightgbm,"{""learning_rate"": 0.03, ""num_leaves"": 15, ""best_iteration"": 421}",inherits HGB tree-size settings,early stopping on 10% inner split of training set,5.7,"subsample 0.8, colsample 0.8"

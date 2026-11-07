@@ -1,0 +1,10 @@
+step,n,n_hospitals_external
+ICU encounters in source file,91713,
+With recorded in-hospital outcome,91713,
+Adults (age ≥18 or age missing),91543,
+First encounter per patient,91543,
+Development hospitals,72382,
+  Training,50667,
+  Calibration,10857,
+  Internal test,10858,
+External test (held-out hospitals),19161,29
