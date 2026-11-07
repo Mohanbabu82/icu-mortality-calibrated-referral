@@ -2,9 +2,15 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the article and this archive."
 title: "Calibrated machine learning with decision-anchored clinician referral for ICU mortality: analysis code"
 authors:
-  - family-names: "[Family name]"
-    given-names: "[Given name]"
-    affiliation: "[Institution]"
+  - given-names: "Mohan Babu"
+    family-names: "A"
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
+  - given-names: "Pushpitha"
+    family-names: "V"
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
+  - given-names: "E. S."
+    family-names: "Madhan"
+    affiliation: "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/Mohanbabu82/icu-mortality-calibrated-referral"

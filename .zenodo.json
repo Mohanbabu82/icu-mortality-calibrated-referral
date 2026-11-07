@@ -4,8 +4,16 @@
   "license": "MIT",
   "creators": [
     {
-      "name": "[Family name], [Given name]",
-      "affiliation": "[Institution]"
+      "name": "A, Mohan Babu",
+      "affiliation": "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
+    },
+    {
+      "name": "V, Pushpitha",
+      "affiliation": "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
+    },
+    {
+      "name": "Madhan, E. S.",
+      "affiliation": "School of Computer Science and Engineering, Vellore Institute of Technology, Vellore 632014, India"
     }
   ],
   "description": "End-to-end analysis notebook, tests and aggregate output tables for a hospital-held-out external validation of calibrated machine-learning ICU mortality models against APACHE IV (WiDS Datathon 2020 data). No patient data are included.",
