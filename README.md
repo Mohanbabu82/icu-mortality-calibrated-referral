@@ -1,5 +1,7 @@
 # Calibrated ICU mortality prediction with decision-anchored clinician referral
 
+[![DOI](https://zenodo.org/badge/1449058168.svg)](https://doi.org/10.5281/zenodo.24029043)
+
 Analysis code for the article *"Calibrated machine learning with decision-anchored clinician referral for in-hospital mortality prediction in intensive care: a multicentre external validation against APACHE IV"* (submitted to the International Journal of Medical Informatics).
 
 ## Contents
@@ -46,7 +48,7 @@ Open a new Kaggle notebook, add the WiDS Datathon 2020 competition data, upload 
 
 ## Citation
 
-See `CITATION.cff`. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
+See `CITATION.cff`. Archived on Zenodo: version used in the article (v1.0.0) https://doi.org/10.5281/zenodo.24029044; all versions https://doi.org/10.5281/zenodo.24029043. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
 
 ## Licence
 

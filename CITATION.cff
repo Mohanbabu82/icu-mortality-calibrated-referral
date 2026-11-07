@@ -14,5 +14,6 @@ authors:
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/Mohanbabu82/icu-mortality-calibrated-referral"
+doi: "10.5281/zenodo.24029043"
 date-released: "2026-11-07"
 keywords: [intensive care, mortality prediction, calibration, external validation, selective prediction]
