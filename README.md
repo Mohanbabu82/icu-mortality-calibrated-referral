@@ -50,7 +50,7 @@ Open a new Kaggle notebook, add the WiDS Datathon 2020 competition data, upload 
 
 ## Citation
 
-See `CITATION.cff`. Archived on Zenodo: all versions https://doi.org/10.5281/zenodo.24029043 (resolves to the latest); v1.0.0 https://doi.org/10.5281/zenodo.24029044. The article uses v1.1.0, which adds `analysis_v1_1/`. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
+See `CITATION.cff`. Archived on Zenodo: all versions https://doi.org/10.5281/zenodo.24029043 (resolves to the latest); v1.1.0, used in the article, https://doi.org/10.5281/zenodo.24245456; v1.0.0 https://doi.org/10.5281/zenodo.24029044. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
 
 ## Licence
 
