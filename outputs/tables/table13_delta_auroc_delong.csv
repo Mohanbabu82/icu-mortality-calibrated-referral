@@ -1,0 +1,24 @@
+analysis,test_set,comparison,delta,lo,hi
+vs APACHE IV (matched),internal_test,logistic_regression / uncalibrated - APACHE IV,0.016542055734286576,0.008481108754094656,0.024603002714478496
+vs APACHE IV (matched),internal_test,logistic_regression / dwac_m - APACHE IV,0.016427094609901993,0.008355583555953689,0.024498605663850297
+vs APACHE IV (matched),internal_test,gradient_boosting / uncalibrated - APACHE IV,0.031754974666049374,0.023508433452748688,0.04000151587935006
+vs APACHE IV (matched),internal_test,gradient_boosting / dwac_m - APACHE IV,0.031740604525501315,0.02349448906792372,0.039986719983078914
+vs APACHE IV (matched),internal_test,lightgbm / uncalibrated - APACHE IV,0.033480605909892325,0.025532525839258045,0.041428685980526604
+vs APACHE IV (matched),internal_test,lightgbm / dwac_m - APACHE IV,0.03339897271710757,0.02546385884969247,0.04133408658452266
+vs APACHE IV (matched),external_test,logistic_regression / uncalibrated - APACHE IV,0.026020732835706273,0.01936676865523205,0.0326746970161805
+vs APACHE IV (matched),external_test,logistic_regression / dwac_m - APACHE IV,0.026011916299593985,0.019354151942685215,0.032669680656502754
+vs APACHE IV (matched),external_test,gradient_boosting / uncalibrated - APACHE IV,0.03720972262350164,0.030325722905660785,0.0440937223413425
+vs APACHE IV (matched),external_test,gradient_boosting / dwac_m - APACHE IV,0.03725075761256735,0.030365250210086406,0.044136265015048304
+vs APACHE IV (matched),external_test,lightgbm / uncalibrated - APACHE IV,0.0408915951808857,0.03416167185881189,0.04762151850295951
+vs APACHE IV (matched),external_test,lightgbm / dwac_m - APACHE IV,0.0406445144774924,0.033897442383932816,0.04739158657105198
+between models,internal_test,gradient_boosting - logistic_regression,0.015432913574727092,0.010160834567921388,0.020704992581532796
+between models,internal_test,lightgbm - logistic_regression,0.016917305495947055,0.01180095890961615,0.02203365208227796
+between models,internal_test,lightgbm - gradient_boosting,0.001484391921219963,-0.0010482608910073912,0.004017044733447318
+between models,external_test,gradient_boosting - logistic_regression,0.011491661452756152,0.007415566191961407,0.015567756713550897
+between models,external_test,lightgbm - logistic_regression,0.014890935206144928,0.011048536021431707,0.018733334390858152
+between models,external_test,lightgbm - gradient_boosting,0.0033992737533887762,0.0015198221302097823,0.00527872537656777
+repeated draw seed 101,external_test,gradient_boosting / dwac_m - APACHE IV,0.03885027592022805,0.032434358985501614,0.045266192854954486
+repeated draw seed 202,external_test,gradient_boosting / dwac_m - APACHE IV,0.045148035197425385,0.03728371985234871,0.05301235054250206
+repeated draw seed 303,external_test,gradient_boosting / dwac_m - APACHE IV,0.0414624534059127,0.03354318936000906,0.04938171745181635
+repeated draw seed 404,external_test,gradient_boosting / dwac_m - APACHE IV,0.03965694658697061,0.03293284048631597,0.04638105268762525
+repeated draw seed 505,external_test,gradient_boosting / dwac_m - APACHE IV,0.04144961477328568,0.03398216213759386,0.0489170674089775

@@ -23,5 +23,6 @@
     "calibration",
     "external validation",
     "TRIPOD+AI"
-  ]
+  ],
+  "version": "1.1.0"
 }

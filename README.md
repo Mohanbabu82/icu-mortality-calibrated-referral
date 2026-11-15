@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1449058168.svg)](https://doi.org/10.5281/zenodo.24029043)
 
-Analysis code for the article *"Calibrated machine learning and decision-anchored clinician referral for ICU mortality prediction: hospital-held-out validation against APACHE IV"* (submitted to the International Journal of Medical Informatics).
+Analysis code for the article *"Calibrated machine learning and decision-anchored clinician referral for ICU mortality prediction: hospital-held-out validation against APACHE IV"* (manuscript under submission).
 
 ## Contents
 
@@ -12,7 +12,9 @@ Analysis code for the article *"Calibrated machine learning and decision-anchore
 | `wids_calibration_study.py` | Same code as a plain script (cells separated by `# %%`) |
 | `cluster_addon.ipynb` | Short companion (about 10–15 min) that refits only the primary model with the published hyperparameters, checks it reproduces the published external AUROC exactly, then runs the hospital-cluster bootstrap and per-hospital analysis (Supplementary Tables S1–S2) |
 | `tests/test_dwac_monotonicity.py` | Simulation stress test of DWAC vs DWAC-M monotonicity (Appendix A.3) |
-| `outputs/tables/*.csv` | Aggregate result tables from the published run (no patient-level data) |
+| `analysis_v1_1/` | Analyses added in v1.1.0, run from the aggregate tables: system-level referral sensitivity and DeLong CIs for AUROC differences (`derived_analyses.py`), per-hospital figure (`fig_hospital_performance.py`), DWAC vs DWAC-M simulation and figure (`dwac_simulation.py`). See `analysis_v1_1/README.md` |
+| `outputs/tables/*.csv` | Aggregate result tables from the published run (no patient-level data); `table12`–`table14` are written by `analysis_v1_1/` |
+| `outputs/figures/` | Figures written by `analysis_v1_1/` |
 | `outputs/run_metadata.json` | Package versions, seed, held-out hospital IDs |
 | `requirements.txt`, `CITATION.cff`, `.zenodo.json`, `LICENSE` | Environment, citation and licence |
 
@@ -48,7 +50,7 @@ Open a new Kaggle notebook, add the WiDS Datathon 2020 competition data, upload 
 
 ## Citation
 
-See `CITATION.cff`. Archived on Zenodo: version used in the article (v1.0.0) https://doi.org/10.5281/zenodo.24029044; all versions https://doi.org/10.5281/zenodo.24029043. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
+See `CITATION.cff`. Archived on Zenodo: all versions https://doi.org/10.5281/zenodo.24029043 (resolves to the latest); v1.0.0 https://doi.org/10.5281/zenodo.24029044. The article uses v1.1.0, which adds `analysis_v1_1/`. Please also cite the WiDS Datathon 2020 dataset and the eICU Collaborative Research Database.
 
 ## Licence
 
